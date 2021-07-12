@@ -9,7 +9,7 @@
 <img width="560" alt="VBA_Challenge_2017" src="https://user-images.githubusercontent.com/86431959/125217774-7a994d80-e28f-11eb-994b-6d4934b51702.png">
 <img width="559" alt="VBA_Challenge_2018" src="https://user-images.githubusercontent.com/86431959/125217777-7d943e00-e28f-11eb-8f08-ae39e8ddf604.png">
 
-- #### When it comes to the running time of the code the refactored script ran much faster for both 2017 and 2018 analysis.
+#### When it comes to the running time of the code the refactored script ran much faster for both 2017 and 2018 analysis.
 - ##### 2017 Orginal Script
 <img width="266" alt="2017 1st run time" src="https://user-images.githubusercontent.com/86431959/125218074-1fb42600-e290-11eb-954c-8bc38e68a5ab.png">
 
