@@ -22,7 +22,13 @@
 ##### 2018 Refactored Script
 <img width="276" alt="2018 2nd run time" src="https://user-images.githubusercontent.com/86431959/125218145-4d996a80-e290-11eb-8e8c-9521ecbe0192.png">
 
-#### Sample of "All Stock Analysis" Code:
+#### Sample of "All Stocks Analysis" Code:
 <img width="651" alt="Screen Shot 2021-07-11 at 9 51 41 PM" src="https://user-images.githubusercontent.com/86431959/125219132-4e330080-e292-11eb-9185-a2e3dfe5c50a.png"><img width="644" alt="Screen Shot 2021-07-11 at 9 52 03 PM" src="https://user-images.githubusercontent.com/86431959/125219139-525f1e00-e292-11eb-811c-4502834ccef1.png">
+
+#### Sample of "All Stocks Analysis Refactored" Code:
+<img width="531" alt="Screen Shot 2021-07-11 at 9 56 11 PM" src="https://user-images.githubusercontent.com/86431959/125219547-f2b54280-e292-11eb-8aa1-0c9c23e2d03d.png"><img width="662" alt="Screen Shot 2021-07-11 at 9 56 31 PM" src="https://user-images.githubusercontent.com/86431959/125219560-f648c980-e292-11eb-956a-6ff18923d824.png"><img width="608" alt="Screen Shot 2021-07-11 at 9 56 50 PM" src="https://user-images.githubusercontent.com/86431959/125219596-06f93f80-e293-11eb-9923-00b3f793194a.png">
+
+
+
 
 
