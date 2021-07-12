@@ -28,6 +28,10 @@
 #### Sample of "All Stocks Analysis Refactored" Code:
 <img width="519" alt="Screen Shot 2021-07-11 at 9 59 10 PM" src="https://user-images.githubusercontent.com/86431959/125219758-68211300-e293-11eb-8aba-09bfa2049041.png"><img width="666" alt="Screen Shot 2021-07-11 at 9 59 58 PM" src="https://user-images.githubusercontent.com/86431959/125219766-6c4d3080-e293-11eb-9629-5c1a70d525df.png"><img width="613" alt="Screen Shot 2021-07-11 at 10 00 17 PM" src="https://user-images.githubusercontent.com/86431959/125219771-6eaf8a80-e293-11eb-8aa8-2be9dbacd4dd.png">
 
+## 3.) Summary 
+
+#### - What are the advantages or disadvantages of refactoring code?
+
 
 
 
