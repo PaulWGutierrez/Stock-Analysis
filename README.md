@@ -9,23 +9,23 @@
 <img width="560" alt="VBA_Challenge_2017" src="https://user-images.githubusercontent.com/86431959/125217774-7a994d80-e28f-11eb-994b-6d4934b51702.png">
 <img width="559" alt="VBA_Challenge_2018" src="https://user-images.githubusercontent.com/86431959/125217777-7d943e00-e28f-11eb-8f08-ae39e8ddf604.png">
 
-#### When it comes to the running time of the code the refactored script ran much faster for both 2017 and 2018 analysis.
-##### 2017 Orginal Script
+- #### When it comes to the running time of the code the refactored script ran much faster for both 2017 and 2018 analysis.
+- ##### 2017 Orginal Script
 <img width="266" alt="2017 1st run time" src="https://user-images.githubusercontent.com/86431959/125218074-1fb42600-e290-11eb-954c-8bc38e68a5ab.png">
 
-##### 2017 Refactored Script
+- ##### 2017 Refactored Script
 <img width="270" alt="2017 2nd run time" src="https://user-images.githubusercontent.com/86431959/125218092-2c387e80-e290-11eb-88f4-09ff2c888b2f.png">
 
-##### 2018 Orginal Script
+- ##### 2018 Orginal Script
 <img width="274" alt="2018 1st run time" src="https://user-images.githubusercontent.com/86431959/125218135-4a9e7a00-e290-11eb-9de4-184bda7d6c57.png">
 
-##### 2018 Refactored Script
+- ##### 2018 Refactored Script
 <img width="276" alt="2018 2nd run time" src="https://user-images.githubusercontent.com/86431959/125218145-4d996a80-e290-11eb-8e8c-9521ecbe0192.png">
 
-#### Sample of "All Stocks Analysis" Code:
+- #### Sample of "All Stocks Analysis" Code:
 <img width="651" alt="Screen Shot 2021-07-11 at 9 51 41 PM" src="https://user-images.githubusercontent.com/86431959/125219132-4e330080-e292-11eb-9185-a2e3dfe5c50a.png"><img width="644" alt="Screen Shot 2021-07-11 at 9 52 03 PM" src="https://user-images.githubusercontent.com/86431959/125219139-525f1e00-e292-11eb-811c-4502834ccef1.png">
 
-#### Sample of "All Stocks Analysis Refactored" Code:
+- #### Sample of "All Stocks Analysis Refactored" Code:
 <img width="519" alt="Screen Shot 2021-07-11 at 9 59 10 PM" src="https://user-images.githubusercontent.com/86431959/125219758-68211300-e293-11eb-8aba-09bfa2049041.png"><img width="666" alt="Screen Shot 2021-07-11 at 9 59 58 PM" src="https://user-images.githubusercontent.com/86431959/125219766-6c4d3080-e293-11eb-9629-5c1a70d525df.png"><img width="613" alt="Screen Shot 2021-07-11 at 10 00 17 PM" src="https://user-images.githubusercontent.com/86431959/125219771-6eaf8a80-e293-11eb-8aa8-2be9dbacd4dd.png">
 
 ## 3.) Summary 
