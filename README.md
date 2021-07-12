@@ -1,3 +1,4 @@
+<img width="561" alt="VBA_Challenge_2017" src="https://user-images.githubusercontent.com/86431959/125217254-32c5f680-e28e-11eb-93dd-0efdf44df614.png">
 # Steve's 2017 and 2018 Stock-Analysis
 ## 1.) Overview of Project
 
