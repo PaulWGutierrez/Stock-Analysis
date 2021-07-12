@@ -26,7 +26,8 @@
 <img width="651" alt="Screen Shot 2021-07-11 at 9 51 41 PM" src="https://user-images.githubusercontent.com/86431959/125219132-4e330080-e292-11eb-9185-a2e3dfe5c50a.png"><img width="644" alt="Screen Shot 2021-07-11 at 9 52 03 PM" src="https://user-images.githubusercontent.com/86431959/125219139-525f1e00-e292-11eb-811c-4502834ccef1.png">
 
 #### Sample of "All Stocks Analysis Refactored" Code:
-<img width="531" alt="Screen Shot 2021-07-11 at 9 56 11 PM" src="https://user-images.githubusercontent.com/86431959/125219547-f2b54280-e292-11eb-8aa1-0c9c23e2d03d.png"><img width="662" alt="Screen Shot 2021-07-11 at 9 56 31 PM" src="https://user-images.githubusercontent.com/86431959/125219560-f648c980-e292-11eb-956a-6ff18923d824.png"><img width="608" alt="Screen Shot 2021-07-11 at 9 56 50 PM" src="https://user-images.githubusercontent.com/86431959/125219596-06f93f80-e293-11eb-9923-00b3f793194a.png">
+<img width="519" alt="Screen Shot 2021-07-11 at 9 59 10 PM" src="https://user-images.githubusercontent.com/86431959/125219758-68211300-e293-11eb-8aba-09bfa2049041.png"><img width="666" alt="Screen Shot 2021-07-11 at 9 59 58 PM" src="https://user-images.githubusercontent.com/86431959/125219766-6c4d3080-e293-11eb-9629-5c1a70d525df.png"><img width="613" alt="Screen Shot 2021-07-11 at 10 00 17 PM" src="https://user-images.githubusercontent.com/86431959/125219771-6eaf8a80-e293-11eb-8aa8-2be9dbacd4dd.png">
+
 
 
 
