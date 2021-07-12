@@ -13,10 +13,12 @@
 ##### 2017 Orginal Script
 <img width="266" alt="2017 1st run time" src="https://user-images.githubusercontent.com/86431959/125218074-1fb42600-e290-11eb-954c-8bc38e68a5ab.png">
 ##### 2017 Refactored Script
+
 <img width="270" alt="2017 2nd run time" src="https://user-images.githubusercontent.com/86431959/125218092-2c387e80-e290-11eb-88f4-09ff2c888b2f.png">
 
 ##### 2018 Orginal Script
 <img width="274" alt="2018 1st run time" src="https://user-images.githubusercontent.com/86431959/125218135-4a9e7a00-e290-11eb-9de4-184bda7d6c57.png">
 ##### 2018 Refactored Script
+
 <img width="276" alt="2018 2nd run time" src="https://user-images.githubusercontent.com/86431959/125218145-4d996a80-e290-11eb-8e8c-9521ecbe0192.png">
 
