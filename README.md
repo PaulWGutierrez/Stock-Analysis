@@ -30,7 +30,7 @@
 
 ## 3.) Summary 
 
-#### - What are the advantages or disadvantages of refactoring code?
+- What are the advantages or disadvantages of refactoring code?
 
 
 
