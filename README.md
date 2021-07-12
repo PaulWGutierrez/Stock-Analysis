@@ -22,8 +22,7 @@
 ##### 2018 Refactored Script
 <img width="276" alt="2018 2nd run time" src="https://user-images.githubusercontent.com/86431959/125218145-4d996a80-e290-11eb-8e8c-9521ecbe0192.png">
 
-#### Sample of "All Stock Analysis" Code:
-
+#### Sample of "All Stock Analysis" Code
 Sub AllStocksAnalysis()
     Dim startTime As Single
     Dim endTime As Single
@@ -101,3 +100,4 @@ Sub AllStocksAnalysis()
         MsgBox "This code ran in " & (endTime - startTime) & " seconds for the year " & (yearValue)
     
 End Sub
+
