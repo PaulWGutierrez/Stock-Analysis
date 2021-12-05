@@ -36,7 +36,6 @@
 - #### How do these pros and cons apply to refactoring the original VBA script?
 #### These pros and cons apply to the refactoring the original VBA by in other word being more detailed or more coding if you will. It seemed as though within the refactoring script it was more precise in getting the results.
 
-
-
-
-
+## Contact:
+##### E-mail: gutierrezpaul7@yahoo.com
+##### LinkedIn: https://www.linkedin.com/in/pwgutierrez
